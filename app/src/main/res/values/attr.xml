@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SnakeView">
+        <attr name="wallColor" format="color" />
+        <attr name="snakeColor" format="color" />
+        <attr name="backgroundColor" format="color" />
+        <attr name="foodColor" format="color" />
+    </declare-styleable>
+</resources>
